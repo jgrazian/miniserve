@@ -61,7 +61,7 @@ pretty_assertions = "0.7"
 url = "2"
 
 [build-dependencies]
-grass = "0.10"
+grass = "0.11"
 
 # This needs to stay here at least until https://github.com/abonander/mime_guess/pull/66 is merged.
 # Also see https://github.com/svenstaro/miniserve/issues/160
